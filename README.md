@@ -26,9 +26,9 @@ This repository contains my **daily progress and projects** from:
 ---
 
 ## 📊 Progress
-- **Days Completed:** ✅ 8 / 100  
-- **Current Day:** 🟢 Day 08
-- **Last Updated:** 🗓️ Day 08
+- **Days Completed:** ✅ 10 / 100  
+- **Current Day:** 🟢 Day 10
+- **Last Updated:** 🗓️ Day 10
 
 ---
 
